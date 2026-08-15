@@ -1,7 +1,10 @@
 services:
-  portfolio:
-    build: .
-    container_name: portfolio
-    restart: unless-stopped
+  page:
+    image: phucitdve/docker-ci-cd-learning:latest
+
+    container_name: docker-ci-cd-learning
+
     ports:
       - "3000:80"
+
+    restart: unless-stopped
