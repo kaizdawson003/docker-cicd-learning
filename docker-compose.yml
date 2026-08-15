@@ -1,6 +1,6 @@
 services:
   page:
-    image: phucitdve/docker-ci-cd-learning:latest
+    image: phucitdev/docker-ci-cd-learning:latest
 
     container_name: docker-ci-cd-learning
 
