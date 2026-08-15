@@ -1,6 +1,4 @@
 import Footer from "./components/header"
-
-imp
 const App = () => {
   return (
     <div>
