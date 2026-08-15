@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <div>
-      Hello CICD kkk
+      Hello Quang Phuc
     </div>
   )
 }
